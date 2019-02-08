@@ -1,0 +1,182 @@
+
+    button:focus { outline: none; }
+        
+    a:focus {
+      outline: none;
+    }
+
+    li {
+      list-style: none;
+    }
+    .navbar {
+      background: white;
+    }
+
+    header {
+      margin: 1rem;
+    }
+    h1 {
+      font-family: 'Staatliches', cursive;
+      font-size: 5rem;
+    }
+    h2 {
+      font-family: 'Staatliches', cursive;
+      color: #000031;
+    }
+    h3 {
+      font-family: 'Staatliches', cursive;
+      color: limegreen;
+    }
+    h4 {
+      writing-mode: vertical-rl;
+      text-orientation: upright;
+      font-family: 'Staatliches', cursive;
+    }
+    em {
+      color: limegreen;
+      font-style: normal;
+    }
+    p {
+      color: #333;
+      font-size: 1.2em;
+    }
+    .bd-placeholder-img {
+      font-size: 1.125rem;
+      text-anchor: middle;
+    }
+    .sign-up {
+      background: limegreen;
+      color: white;
+      font-family: 'Staatliches', cursive;
+      font-size: 1.5rem;
+      padding: 0.5rem 6rem;
+      border: none;
+    }
+    .carousel {
+      background: #000031;
+    }      
+    .move-up-5 {
+      margin: 0 0 15rem 0;
+    }  
+    .move-up-4 {
+      margin: 0 0 10rem 0;
+    }
+    .move-down-3 {
+      margin: 6rem 0 0 0;
+    }
+    .move-down-2 {
+      margin: 4rem 0 0 0;
+    }
+    .move-down-1 {
+      margin: 2rem 0 0 0;
+    }
+
+    .padding-2 {
+      padding: 2rem;
+    }
+    .padding-1 {
+      padding: 1rem;
+    }
+
+    .space-3 {
+      margin: 3rem;
+      height: 5rem;
+    }
+    .space-1 {
+      margin: 1rem;
+      height: 2rem;
+    }
+    .news-feed {
+      margin: 3rem 1rem;
+    }
+
+    .news-feed h2 {
+      text-align: center;
+      margin: 3rem;
+    }
+
+    .load-more {
+      text-align: center;
+      margin: 3rem;
+    }
+
+    .load-more a {
+      color: #000031
+    }
+
+    .back-to-top {
+      text-align: center;
+      margin: 3rem;
+    }
+
+    .back-to-top a {
+      color: #000031
+    }
+
+    .about-bg {
+      background-image: url("about-bg.png");
+    }
+
+    .services-bg {
+      background-image: url("services-bg.png");
+    }
+    .awards-bg {
+      background-image: url("awards-bg.png");
+    }
+    .events-bg {
+      background-image: url("events-bg.png");
+    }
+    .media-bg {
+      background-image: url("media-bg.png");
+    }
+    .links-bg {
+      background-image: url("links-bg.png");
+    }
+    .contact-bg {
+      background-image: url("cont-bg.png");
+    }
+    .search-bg {
+      background-image: url("search-bg.png");
+    }
+
+    .jhb-bg {
+      background-image: url("jhb-bg.png");
+    }
+
+    .row-22 {
+      height: 22rem;
+      width: auto;
+    }
+    .row-18 {
+      height: 18rem;
+      width: auto;
+    }
+
+    
+    .about a {
+      color: white;
+      font-size: 1.2rem;
+    }
+    .about, .media h4 {
+      color: white;
+    }
+    .services a {
+      color: black;
+      font-size: 1.2rem;
+    }
+    .awards h2 {
+      color: white;
+      font-size: 3rem;
+      margin: 1.5rem 2.5rem;
+    }
+  
+    .links h2 {
+      color: black;
+      font-size: 3rem;
+      margin: 1.5rem 2.5rem;
+    }
+
+    .fixedPosition
+      {
+          position: fixed;
+      }
